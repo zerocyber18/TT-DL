@@ -18,4 +18,4 @@ Pastikan kamu sudah menginstall **Python** dan **FFmpeg** di Termux kamu.
 
 ### 1. Clone atau Masuk ke Folder
 ```bash
-cd tiktok
+cd TT-DL
