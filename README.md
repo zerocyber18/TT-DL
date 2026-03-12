@@ -13,6 +13,7 @@
 ---
 
 ## 🛠️ Installation & Setup
+'''bash
 pkg update
 pkg upgrade
 pkg install python
@@ -21,4 +22,3 @@ git clone https://github.com/zerocyber18/TT-DL.git
 cd TT-DL
 pip install -r requirements.txt
 python tiktok.py
-
