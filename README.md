@@ -13,9 +13,12 @@
 ---
 
 ## 🛠️ Installation & Setup
-
-Pastikan kamu sudah menginstall **Python** dan **FFmpeg** di Termux kamu.
-
-### 1. Clone atau Masuk ke Folder
-```bash
+pkg update
+pkg upgrade
+pkg install python
+pkg install ffmpeg
+git clone https://github.com/zerocyber18/TT-DL.git
 cd TT-DL
+pip install -r requirements.txt
+python tiktok.py
+
